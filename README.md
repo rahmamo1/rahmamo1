@@ -1,19 +1,39 @@
-# 👋 Hi, I'm Rahma Mohamed!
+# Hi, I'm Rahma M. Abdelfattah 👋
 
-🎓 **AI Student @ Helwan University**  
-💻 **Driven by a passion for Artificial Intelligence, Data Science & Intelligent Systems**  
+### AI/ML Engineer | Computer Vision | NLP | Generative AI
 
-- 🔭 **Dedicated to developing innovative AI-driven solutions for impactful real-world applications**  
-- 🌱 **Continuously expanding my expertise in advanced AI methodologies and emerging technologies**  
+🎓 B.Sc. Computer Science — Artificial Intelligence
+💡 Passionate about building practical AI solutions and intelligent applications.
+
+### 🚀 About Me
+
+* 🤖 Interested in **Machine Learning, Deep Learning, NLP & Generative AI**
+* 👁️ Experienced with **Computer Vision & Image Processing**
+* 🧠 Building **RAG systems, LLM applications & AI-powered solutions**
+* 📊 Interested in **Data Analysis & Machine Learning**
+* 🔧 Enjoy turning ideas into practical, production-ready applications
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL, C++, Java
+
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Keras
+
+**Computer Vision:** OpenCV, YOLOv8, CNNs, MobileNet, Xception
+
+**NLP & GenAI:** Hugging Face, LangChain, FAISS, RAG, LLMs, BERT, LSTM
+
+**Data:** Pandas, NumPy, Matplotlib, Plotly, Power BI
+
+**Tools:** Git, GitHub, Docker, Streamlit, Jupyter, Google Colab, Kaggle
+
+
+### 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/rahma-m-abdelfattah)
+* 💻 [GitHub](https://github.com/rahmamo1)
+* 📊 [Kaggle](https://www.kaggle.com/rahmamabdelfattah)
 
 ---
 
-## 👩‍💻 About Me
-I'm an AI student passionate about **designing intelligent systems** and **transforming data into meaningful insights**.  
-My focus is on **AI research**, **data-centric solutions**, and leveraging **cutting-edge technologies** to solve complex challenges.
-
----
-
-## 🌐 Let's Connect
-💼 [**LinkedIn**](https://www.linkedin.com/in/rahma-mohamed-256024311)  
-📊 [**Kaggle**](https://www.kaggle.com/rahmamabdelfattah)
+⭐ Feel free to explore my repositories and projects!
